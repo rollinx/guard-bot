@@ -7,7 +7,7 @@ API_ID: int = 3487995
 API_HASH: str = "7b9f1868c1e90b7408d48445f1e89603"
 TOKEN: str = "1793418448:AAG_85y0JOrfyuXOCs-dkmufe_FEZiATaBA"
 
-log_chat: int = -803830916
+log_chat: int = -1001852160218
 sudoers: List[int] = [983756079]
 super_sudoers: List[int] = [983756079]
 
