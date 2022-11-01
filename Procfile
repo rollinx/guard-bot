@@ -1,1 +1,1 @@
-worker: eduu/python3 __main__.py
+worker: eduu/__main__.py
