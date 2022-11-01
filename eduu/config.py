@@ -5,7 +5,7 @@ from typing import List, Optional
 
 API_ID: int = 3487995
 API_HASH: str = "7b9f1868c1e90b7408d48445f1e89603"
-TOKEN: str = "5200427414:AAHT02y59QBp0X2qUcEGDcU0f4JK_iQoqzA"
+TOKEN: str = "1793418448:AAG_85y0JOrfyuXOCs-dkmufe_FEZiATaBA"
 
 log_chat: int = -803830916
 sudoers: List[int] = [983756079]
