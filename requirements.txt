@@ -9,7 +9,7 @@ aiosqlite==0.17.0
 # Plugins Deps
 meval==2.5
 humanfriendly
-python-ffmpeg==1.0.14
+python-ffmpeg==2.0.1
 gpytranslate==1.4.0
 httpx[http2]>=0.18.1,<1.0.0
 Pillow>=8.4.0,<10.0.0
