@@ -10,7 +10,7 @@ aiosqlite==0.17.0
 meval==2.5
 humanfriendly
 python-ffmpeg==1.0.14
-gpytranslate==1.4.0
+gpytranslate==1.5.1
 httpx[http2]>=0.18.1,<1.0.0
 Pillow>=8.4.0,<10.0.0
 
